@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Lexy Dennis",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://dennisal.github.io/images/molly.png",
+    "email": "dennisal@hawaii.edu",
+    "phone": "971-222-6190",
+    "website": "https://dennisal.github.io",
+    "summary": "I am working toward a BBA in Management, International Business, and Management Information Systems at the University of Hawaii at Manoa.  My expected graduation date is Spring 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "dennisal",
+        "url": "http://github.com/dennisal"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Alexis Dennis",
+        "url": "http://linkedin.com/in/alexis-dennis-20849a11b/"
       },
       {
         "network": "twitter",
