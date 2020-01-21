@@ -6,13 +6,13 @@
     "email": "dennisal@hawaii.edu",
     "phone": "971-222-6190",
     "website": "https://dennisal.github.io",
-    "summary": "I am working toward a BBA in Management, International Business, and Management Information Systems at the University of Hawaii at Manoa.  My expected graduation date is Spring 2021.",
+    "summary": "I am working toward a B.B.A. in Management, International Business, and Management Information Systems at the University of Hawai'i at Mānoa.  My expected graduation date is Spring 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Hawai'i"
     },
     "profiles": [
       {
@@ -73,9 +73,9 @@
   "education": [
     {
       "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
-      "area": "Management, International Business, Management Information Systems (expected Spring, 2021)",
+      "area": "Management, International Business, and Management Information Systems (expected Spring, 2021)",
       "studyType": "B.B.A.",
-      "startDate": "2017",
+      "startDate": "August 2017",
       "endDate": "Present",
       "gpa": "3.85",
       "courses": [
@@ -87,7 +87,7 @@
       "company": "UH Mānoa Campus Center Board Activities Council",
       "position": "Chairwoman",
       "website": "",
-      "startDate": "2018-05",
+      "startDate": "May 2018",
       "endDate": "Present",
       "summary": "Leader of a professional and organized team of student event coordinators",
       "highlights": [
@@ -96,11 +96,11 @@
       ]
     },
     {
-      "company": "UH Housing Services",
+      "company": "UH Mānoa Housing Services",
       "position": "Resident Assistant",
       "website": "",
-      "startDate": "2018-08",
-      "endDate": "2018-12",
+      "startDate": "August 2018",
+      "endDate": "December 2018",
       "summary": "Student leader within campus housing",
       "highlights": [
         "Resolved and reported student conduct issues",
@@ -113,7 +113,7 @@
       "organization": "Delta Sigma Pi, Rho Chi chapter",
       "website": "http://dspuhm.com",
       "position": "Vice President of Professional Activities",
-      "startDate": "2020-01",
+      "startDate": "January 2020",
       "endDate": "Present",
       "summary": "Organize professional activities for members of Delta Sigma Pi, Rho Chi chapter",
       "highlights": [
@@ -123,7 +123,7 @@
   "awards": [
     {
       "title": "Shidler Global Leader",
-      "date": "2019-2021",
+      "date": "August 2019 - May 2021",
       "awarder": "UH Mānoa Shidler College of Business",
       "summary": "The Shidler Global Leaders program seeks to reward and support those students who have the propensity to achieve excellence in their business education."
     }
