@@ -2,7 +2,7 @@
   "basics": {
     "name": "Lexy Dennis",
     "label": "Student",
-    "picture": "https://dennisal.github.io/images/molly.png",
+    "picture": "https://dennisal.github.io/images/IMG_1674.JPG",
     "email": "dennisal@hawaii.edu",
     "phone": "971-222-6190",
     "website": "https://dennisal.github.io",
@@ -24,34 +24,22 @@
         "network": "linkedin",
         "username": "Alexis Dennis",
         "url": "http://linkedin.com/in/alexis-dennis-20849a11b/"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Traveling",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "learning new things",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "sustainability",
       "keywords": [
       ]
     }
@@ -61,12 +49,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -74,90 +57,75 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
+      ]
+    },
+     {
+      "name": "Soft Skills",
+      "level": "",
+      "keywords": [
+        "Spanish",
+        "Time management",
+        "Leadership"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
+      "area": "Management, International Business, Management Information Systems (expected Spring, 2021)",
+      "studyType": "B.B.A.",
+      "startDate": "2017",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.85",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Mānoa Campus Center Board Activities Council",
+      "position": "Chairwoman",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-05",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Leader of a professional and organized team of student event coordinators",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Prepare and defent the annual fiscal budget",
+        "Conceptualize and create events for the UH Mānoa community"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Housing Services",
+      "position": "Resident Assistant",
+      "website": "",
+      "startDate": "2018-08",
+      "endDate": "2018-12",
+      "summary": "Student leader within campus housing",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Resolved and reported student conduct issues",
+        "Fostered a safe and welcoming environment for a diverse community of new students"
       ]
     }
   ],
-  "volunteer": [
+  "extacurricular": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Delta Sigma Pi, Rho Chi chapter",
+      "website": "http://dspuhm.com",
+      "position": "Vice President of Professional Activities",
+      "startDate": "2020-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Organize professional activities for members of Delta Sigma Pi, Rho Chi chapter",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Shidler Global Leader",
+      "date": "2019-2021",
+      "awarder": "UH Mānoa Shidler College of Business",
+      "summary": "The Shidler Global Leaders program seeks to reward and support those students who have the propensity to achieve excellence in their business education."
     }
   ],
   "references": [
