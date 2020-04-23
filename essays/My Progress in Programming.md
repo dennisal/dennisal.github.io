@@ -1,5 +1,5 @@
 ---
-layout: Blog Entry
+layout: Essay
 type: Essay
 title: My Progress in Programming Essay
 date: 2020-04-23
