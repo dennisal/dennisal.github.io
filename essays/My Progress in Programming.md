@@ -1,10 +1,10 @@
 ---
-layout: Essay
-type: Essay
+layout: essay
+type: essay
 title: My Progress in Programming Essay
 date: 2020-04-23
 labels:
-  - Progress
+  - My Progress
   - Opinion
   - Blog Entry
 ---
