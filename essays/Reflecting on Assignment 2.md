@@ -26,7 +26,9 @@ Assignment 1 was more difficult for me to develop just because I used a CSS temp
 5. Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
 
 A: 20% of the time.
+
 B: 10% of the time.
+
 C: 10000000000% (but realistically more like 70% of the time).
 
 6. Describe what worked well with this project? What did not work well?
