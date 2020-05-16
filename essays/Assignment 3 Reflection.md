@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Assignment 3 Reflection Blog
-date: 2020-04-23
+date: 2020-05-15
 labels:
   - Blog
   - Final
